@@ -1,0 +1,31 @@
+name: radio_group_builder
+description: Build labeled radio buttons from a list with vertical or wrapping
+  layouts, decoration, and a controller for value/index selection and silent
+  updates.
+version: 0.1.0
+repository: https://github.com/babincc/radio_group_builder
+issue_tracker: https://github.com/babincc/radio_group_builder/issues
+
+topics:
+  - radio-group
+  - radio-buttons
+
+funding:
+  - https://www.buymeacoffee.com/babincc
+  - https://paypal.me/cssbabin
+  - https://venmo.com/u/babincc
+
+environment:
+  sdk: ">=3.9.0 <4.0.0"
+  flutter: ">=3.35.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
